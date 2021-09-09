@@ -1,0 +1,30 @@
+<section class="padding-bottom-150">
+<div class="container">
+<div class="heading text-center">
+            <h4>popular products</h4>
+            <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec faucibus maximus vehicula. 
+            Sed feugiat, tellus vel tristique posuere, diam</span> </div>
+          
+          <!-- Popular Item Slide -->
+          <div class="papular-block block-slide"> 
+            
+             {% for product in products %}
+            <!-- Item -->
+            <div class="item"> 
+              <!-- Item img -->
+              <div class="item-img"> <img class="img-1" src="{{ product.thumb }}" alt="" > <img class="img-2" src="{{ product.thumb }}" alt="" > 
+                <!-- Overlay -->
+                <div class="overlay">
+                  <div class="position-center-center"> <a href="{{ product.href }}" class="btn btn-small btn-round">MORE</a> </div>
+                </div>
+              </div>
+              <!-- Item Name -->
+              <div class="item-name"> <a href="{{ product.href }}">{{ product.name }}</a> </div>
+              <!-- Price --> 
+            </div>
+              {% endfor %}
+
+          </div>
+      </div>
+</section>
+

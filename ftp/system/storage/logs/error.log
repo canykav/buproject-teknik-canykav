@@ -1,0 +1,32 @@
+2021-09-09 11:37:51 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\system\library\mail\mail.php on line 77
+2021-09-09 15:00:04 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\cd\cdb5f152e2bd65c2c133630f00cc99fd324d3ea94813484bbc132457c533e200.php on line 111
+2021-09-09 15:00:30 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\d6\d6689607373df35fd484167ad9fb9f696c85a813a3a972d5515a9c650c536343.php on line 111
+2021-09-09 15:01:12 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\f6\f6412238a54f25ae2c0c70d4c255257e62321348c04b03a3aa0141556205ff77.php on line 116
+2021-09-09 15:01:12 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\f6\f6412238a54f25ae2c0c70d4c255257e62321348c04b03a3aa0141556205ff77.php on line 116
+2021-09-09 15:01:12 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\f6\f6412238a54f25ae2c0c70d4c255257e62321348c04b03a3aa0141556205ff77.php on line 116
+2021-09-09 15:01:12 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\f6\f6412238a54f25ae2c0c70d4c255257e62321348c04b03a3aa0141556205ff77.php on line 116
+2021-09-09 15:03:29 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:03:29 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:03:29 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:03:29 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:03:45 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:03:45 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:03:45 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:03:45 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:06:17 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:06:17 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:06:17 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:06:17 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:08:44 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:08:44 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:08:44 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:08:44 - PHP Warning:  Array to string conversion in C:\xampp\htdocs\opencart\system\storage\cache\template\55\55f25378a168f4aa7adf34253867840a7b7b19e2c073080102b19f914b0f5399.php on line 116
+2021-09-09 15:22:05 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
+2021-09-09 15:24:57 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
+2021-09-09 15:25:19 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
+2021-09-09 16:02:03 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
+2021-09-09 16:02:58 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
+2021-09-09 16:02:59 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
+2021-09-09 16:04:16 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
+2021-09-09 16:05:37 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
+2021-09-09 16:08:12 - PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\opencart\catalog\controller\extension\module\category.php on line 32
